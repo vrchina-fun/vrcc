@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on VRchina.cc</title>
+    <link>https://vrchina.cc/categories/</link>
+    <description>Recent content in Categories on VRchina.cc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2020 [VRchina.cc](https://vrchina.cc) All Rights Reserved</copyright>
+    
+	<atom:link href="https://vrchina.cc/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>art</title>
+      <link>https://vrchina.cc/categories/art/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vrchina.cc/categories/art/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>culture</title>
+      <link>https://vrchina.cc/categories/culture/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vrchina.cc/categories/culture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>folklore</title>
+      <link>https://vrchina.cc/categories/folklore/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vrchina.cc/categories/folklore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>geography</title>
+      <link>https://vrchina.cc/categories/geography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vrchina.cc/categories/geography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>science</title>
+      <link>https://vrchina.cc/categories/science/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vrchina.cc/categories/science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>society</title>
+      <link>https://vrchina.cc/categories/society/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vrchina.cc/categories/society/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>species</title>
+      <link>https://vrchina.cc/categories/species/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vrchina.cc/categories/species/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
